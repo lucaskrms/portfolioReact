@@ -9,7 +9,7 @@ const Header = () =>  (
   <Container>
     <Div1>
       <a style={{ display: "flex", alignItems: "center", color: "white" , marginBottom: "30px", marginTop: "-3px"}}>
-        <DiCode size="4rem"/> <Span>Portfolio</Span>
+        <DiCode size="4rem"/> <Span>lucaskrms portfolio</Span>
       </a>
     </Div1>
     <Div3>

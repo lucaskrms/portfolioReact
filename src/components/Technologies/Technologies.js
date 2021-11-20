@@ -29,7 +29,8 @@ const Technologies = () =>  (
             <ListTitle>Other</ListTitle>
             <ListParagraph>-C++</ListParagraph>
             <ListParagraph>-Git</ListParagraph>
-            <ListParagraph>-English/Portuguese/French/Spanish</ListParagraph>
+            <ListParagraph>-Fluent English/Portuguese</ListParagraph>
+            <ListParagraph>-Advanced Spanish/French</ListParagraph>
           </ListContainer>
         </ListItem>
       </List>
